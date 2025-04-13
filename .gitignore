@@ -1,0 +1,21 @@
+# Ignorar arquivos de áudio
+*.mp3
+*.wav
+*.wave
+
+# Ignorar planilhas
+*.xls
+*.xlsx
+
+# Ignorar arquivos e pastas comuns de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+
